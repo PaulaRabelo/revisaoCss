@@ -11,6 +11,8 @@ Na aula de hoje, vamos revisar conceitos básicos de CSS, com ênfase no uso de 
 
 ![image](https://github.com/PaulaRabelo/revisaoCss/assets/88298525/f5dbba88-cd39-48b0-ad49-eb70e3392741)
 
+Após a divisão visual dos elementos, utilizando o método que foi ensinado, prosseguiremos com a organização por números, conforme indicado na figura abaixo. Juntos, vamos detalhar e trabalhar nos itens 1, 2 e 3.
+Quanto ao item 4, solicito que vocês o montem individualmente. Não hesitem em pedir ajuda caso encontrem dificuldades.
 
 ![image](https://github.com/PaulaRabelo/revisaoCss/assets/88298525/54cf0511-990e-45be-b4c4-9aa003077401)
 
