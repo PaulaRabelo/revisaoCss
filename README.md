@@ -9,6 +9,9 @@ Link https://www.figma.com/file/9ChDAF7fjRLYZicF7sqO6C/Student-Portal-Dashboard-
 
 Na aula de hoje, vamos revisar conceitos básicos de CSS, com ênfase no uso de Grid e Flexbox no código. Os elementos visuais da página foram enumerados para facilitar a organização e garantir uma sequência lógica na montagem do site.
 
+![image](https://github.com/PaulaRabelo/revisaoCss/assets/88298525/f5dbba88-cd39-48b0-ad49-eb70e3392741)
+
+
 ![image](https://github.com/PaulaRabelo/revisaoCss/assets/88298525/54cf0511-990e-45be-b4c4-9aa003077401)
 
 
