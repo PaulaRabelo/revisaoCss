@@ -14,6 +14,16 @@ Na aula de hoje, vamos revisar conceitos básicos de CSS, com ênfase no uso de 
 Após a divisão visual dos elementos, utilizando o método que foi ensinado, prosseguiremos com a organização por números, conforme indicado na figura abaixo. Juntos, vamos detalhar e trabalhar nos itens 1, 2 e 3.
 Quanto ao item 4, solicito que vocês o montem individualmente. Não hesitem em pedir ajuda caso encontrem dificuldades.
 
+Cores
+
+ --lisas-claro: rgba(146, 95, 226, 1);
+    --lisas-escuro: rgba(112, 66, 192, 1);
+    --lisas: rgba(213, 197, 237, 1);
+    --branca: #ffffff;
+    --lisas-letra: 925FE2;
+    --cinza: rgba(128, 128, 128, 1);
+    --cor-de-fundo: #F1F1F1;
+
 ![image](https://github.com/PaulaRabelo/revisaoCss/assets/88298525/54cf0511-990e-45be-b4c4-9aa003077401)
 
 
