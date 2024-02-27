@@ -16,11 +16,11 @@ Quanto ao item 4, solicito que vocês o montem individualmente. Não hesitem em 
 
 Cores
 
- --lisas-claro: rgba(146, 95, 226, 1);
-    --lisas-escuro: rgba(112, 66, 192, 1);
-    --lisas: rgba(213, 197, 237, 1);
+ --lilas-claro: rgba(146, 95, 226, 1);
+    --lilas-escuro: rgba(112, 66, 192, 1);
+    --lilas: rgba(213, 197, 237, 1);
     --branca: #ffffff;
-    --lisas-letra: 925FE2;
+    --lilas-letra: 925FE2;
     --cinza: rgba(128, 128, 128, 1);
     --cor-de-fundo: #F1F1F1;
 
